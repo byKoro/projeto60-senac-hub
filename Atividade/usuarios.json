@@ -1,0 +1,20 @@
+[
+    {
+        "usuario": "Pedro",
+        "senha": "1234",
+        "nivel_de_acesso": "Administrador",
+        "id": 1
+    },
+    {
+        "usuario": "Yuri",
+        "senha": "",
+        "nivel_de_acesso": "Recepcionista",
+        "id": 2
+    },
+    {
+        "usuario": "Bia",
+        "senha": "1234",
+        "nivel_de_acesso": "Administrador",
+        "id": 3
+    }
+]
